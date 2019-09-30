@@ -1,5 +1,6 @@
 import random
 
+
 winning_num=random.randint(1,10)
 
 print("WELCOME TO Number guessing game: guess the number between 1 to 10")
